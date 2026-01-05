@@ -55,3 +55,13 @@ Affiche la liste de tous les comptes enregistrés.
 ```
 > **Screenshot AllComptes** :
 > ![AllComptes](images/3.jpg)
+
+### 4. Statistiques des Soldes (`TotalSolde`)
+Retourne le nombre de comptes, la somme des soldes et la moyenne.
+- **Méthode** : `TotalSolde`
+- **JSON Request** :
+```json
+{}
+```
+> **Screenshot TotalSolde** :
+> ![TotalSolde](images/4.jpg)
